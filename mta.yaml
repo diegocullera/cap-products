@@ -13,7 +13,7 @@ build-parameters:
 modules:
   - name: cap-products-srv
     type: nodejs
-    path: gen/srv
+    path: srv #gen/srv
     parameters:
       buildpack: nodejs_buildpack
     build-parameters:

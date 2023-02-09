@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "@sap/eslint-plugin-ui5-jsdocs": "^2.0.5",
+    "@sap/hdi-deploy": "^4.5.3",
     "@sap/ux-specification": "^1.102.15",
     "@sapui5/ts-types": "^1.92.2",
     "cds-swagger-ui-express": "^0.5.0",
